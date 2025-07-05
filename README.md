@@ -9,7 +9,11 @@ This repository contains the five required projects for the **freeCodeCamp Data 
 
 ## 📁 Repository Structure
 
-├── demographic-data-analyzer/
+├── demographic-data-analyzer/  
+│ └── demographic_data_analyzer.py
+│ └── README.md
+
+
 │ ├── demographic_data_analyzer.py
 │ └── README.md
 ├── mean-variance-standard-deviation-calculator/
