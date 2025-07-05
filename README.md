@@ -10,35 +10,34 @@ This repository contains the five required projects for the **freeCodeCamp Data 
 ## 📁 Repository Structure
 
 ├── demographic-data-analyzer/
-
-│ └── demographic_data_analyzer.py
-│ └── README.md
+│   ├── demographic_data_analyzer.py
+│   └── README.md
 │
 ├── mean-variance-standard-deviation-calculator/
-│ └── mean_var_std.py
-│ └── README.md
+│   ├── mean_var_std.py
+│   └── README.md
 │
 ├── medical-data-visualizer/
-│ └── catplot.png
-│ └── heatmap.png
-│ └── medical_data_visualizer.py
-│ └── medical_examination.csv
-│ └── README.md
+│   ├── catplot.png
+│   ├── heatmap.png
+│   ├── medical_data_visualizer.py
+│   ├── medical_examination.csv
+│   └── README.md
 │
 ├── page-view-time-series-visualizer/
-│ └── bar_plot.png
-│ └── box_plot.png
-│ └── fcc-forum-pageviews.csv
-│ └── line_plot.png
-│ └── README.md
-│ └── time_series_visualizer.py
+│   ├── bar_plot.png
+│   ├── box_plot.png
+│   ├── fcc-forum-pageviews.csv
+│   ├── line_plot.png
+│   └── README.md
+│   └── time_series_visualizer.py
 │
 ├── sea-level-predictor/
-│ └── README.md
-│ └── sea_level_plot.png
-│ └── sea_level_predictor.py
+│   ├── README.md
+│   ├── sea_level_plot.png
+│   └── sea_level_predictor.py
 │
-└── README.md ← (This file)
+└── README.md  ← (This file)
 
 ## 📚 Project Overviews
 
