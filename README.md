@@ -29,7 +29,7 @@ This repository contains the five required projects for the **freeCodeCamp Data 
 │   ├── box_plot.png
 │   ├── fcc-forum-pageviews.csv
 │   ├── line_plot.png
-│   └── README.md
+│   ├── README.md
 │   └── time_series_visualizer.py
 │
 ├── sea-level-predictor/
