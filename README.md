@@ -96,5 +96,5 @@ This repository contains the five required projects for the **freeCodeCamp Data 
 
 **Mutasim Billah**  
 
-🔗 [LinkedIn](https://www.linkedin.com/mmbillah804)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
 🔗 [GitHub](https://github.com/mmbillah804)
