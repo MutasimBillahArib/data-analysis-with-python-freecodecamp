@@ -2,7 +2,6 @@
 
 This project uses Python to analyze and visualize a dataset of medical examination records. It focuses on producing two key visualizations: a categorical plot and a correlation heatmap. These visualizations help reveal insights about cardiovascular disease and related health indicators.
 
----
 
 ## 📄 Project Overview
 
@@ -15,7 +14,6 @@ This script performs the following:
    - 📊 **Categorical Plot** (`catplot.png`) comparing health indicators grouped by cardiovascular disease.
    - 🔥 **Heat Map** (`heatmap.png`) showing correlations between medical variables.
 
----
 
 ## 🧪 Example Usage
 
@@ -26,6 +24,7 @@ draw_cat_plot()
 draw_heat_map()
 ```
 The functions will save the plots as `catplot.png` and `heatmap.png` in the current directory.
+
 
 ## ⚙️ Data Preprocessing
 
@@ -46,7 +45,6 @@ To simplify analysis:
   - Height
   - Weight
 
----
 
 ## 📊 Visualizations
 
@@ -60,7 +58,6 @@ To simplify analysis:
 - **Filtered:** Only valid and realistic records (after cleaning)
 - **Details:** Includes annotations for each correlation cell for easy interpretation
 
----
 
 ## 📚 Learning Outcomes
 
