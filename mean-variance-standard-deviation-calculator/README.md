@@ -63,5 +63,6 @@ This project demonstrates:
 
 **Mutasim Billah**  
 
-🔗 [LinkedIn](https://www.linkedin.com/mmbillah804)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
 🔗 [GitHub](https://github.com/mmbillah804)
+
