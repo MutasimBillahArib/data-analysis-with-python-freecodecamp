@@ -59,9 +59,9 @@ This project demonstrates:
 - Input validation and error handling
 
 
-## 👨‍💻 Author
+## 📬 Let's Connect
 
-**Mutasim Billah**  
+I'm always open to feedback, collaboration, or career opportunities!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
 🔗 [GitHub](https://github.com/mmbillah804)
