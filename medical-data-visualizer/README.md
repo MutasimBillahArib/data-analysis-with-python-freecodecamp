@@ -69,9 +69,9 @@ Through this project, you will practice:
 - 🌐 **Exploring real-world medical datasets with insights**
 
 
-## 👨‍💻 Author
+## 📬 Let's Connect
 
-**Mutasim Billah**  
+I'm always open to feedback, collaboration, or career opportunities!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
 🔗 [GitHub](https://github.com/mmbillah804)
