@@ -44,10 +44,3 @@ Through this project, you’ll practice:
 - 📈 Predictive modeling and extrapolation to future years
 - 🎨 Custom plotting and styling using `matplotlib`
 
-
-## 📬 Let's Connect
-
-I'm always open to feedback, collaboration, or career opportunities!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
-🔗 [GitHub](https://github.com/mmbillah804)
