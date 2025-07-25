@@ -92,9 +92,3 @@ This repository contains the five required projects for the **freeCodeCamp Data 
 - 🧹 Outlier Detection & Feature Engineering
 
 
-## 📬 Let's Connect
-
-I'm always open to feedback, collaboration, or career opportunities!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)  
-🔗 [GitHub](https://github.com/mmbillah804)
